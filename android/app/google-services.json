@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260652347273",
+    "project_id": "newsapp-88807",
+    "storage_bucket": "newsapp-88807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260652347273:android:37b930191126fa7d53bb58",
+        "android_client_info": {
+          "package_name": "com.harshad.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6INgdHFoQgqGWNJpNWaLD9MxBarSfJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
