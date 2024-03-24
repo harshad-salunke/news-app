@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## News APP UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/harshad-salunke/news-app/assets/87861834/7e47bcff-d6b7-46f0-836e-0a54acbeccf5)
+![2](https://github.com/harshad-salunke/news-app/assets/87861834/f47c4f7b-42e0-437e-b5e3-17edacbdfe2d)
+![3](https://github.com/harshad-salunke/news-app/assets/87861834/7646af24-e82d-4d0e-a1ba-ff017356d6dc)
